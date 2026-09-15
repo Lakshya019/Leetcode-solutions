@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1922-count-good-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
