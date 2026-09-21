@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0725-split-linked-list-in-parts](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
