@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0143-reorder-list) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
@@ -118,10 +121,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
