@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0817-linked-list-components](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
