@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
