@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0382-linked-list-random-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
