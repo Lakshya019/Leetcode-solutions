@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0817-linked-list-components](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
