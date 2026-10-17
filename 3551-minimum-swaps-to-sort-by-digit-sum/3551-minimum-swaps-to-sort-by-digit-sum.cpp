@@ -1,0 +1,42 @@
+class Solution {
+public:
+    int digitSum(int n){
+        int sum = 0;
+        while(n > 0){
+            sum += n % 10;
+            n = n/10;
+        }
+        return sum;
+    }
+    int minSwaps(vector<int>& nums) {
+        int n = nums.size();
+
+        vector<int> sorted = nums;
+
+        sort(sorted.begin(), sorted.end(), [&](int a, int b) {
+            if (digitSum(a) == digitSum(b))
+                return a < b;
+            return digitSum(a) < digitSum(b);
+        });
+        unordered_map<int, int> targetIndex;
+        for (int i = 0; i < n; i++) {
+            targetIndex[sorted[i]] = i;
+        }
+        vector<bool> visited(n, false);
+        int swaps = 0;
+        for (int i = 0; i < n; i++) {
+            if (visited[i] || targetIndex[nums[i]] == i)
+                continue;
+
+            int cycleSize = 0;
+            int j = i;
+            while (!visited[j]) {
+                visited[j] = true;
+                j = targetIndex[nums[j]];
+                cycleSize++;
+            }
+            swaps += cycleSize - 1;
+        }
+        return swaps;
+    }
+};
