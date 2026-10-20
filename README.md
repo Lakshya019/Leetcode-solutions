@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
