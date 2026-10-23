@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
 | ------- |
