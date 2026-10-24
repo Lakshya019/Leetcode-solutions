@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0051-n-queens) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0051-n-queens) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0817-linked-list-components](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0817-linked-list-components) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -224,9 +227,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
