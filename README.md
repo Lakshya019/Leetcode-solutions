@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0382-linked-list-random-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
 | ------- |
