@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0382-linked-list-random-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
