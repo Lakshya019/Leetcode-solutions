@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0817-linked-list-components](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0817-linked-list-components) |
