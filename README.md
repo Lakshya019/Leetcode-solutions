@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Enumeration
