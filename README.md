@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
