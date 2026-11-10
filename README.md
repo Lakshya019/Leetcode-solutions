@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
