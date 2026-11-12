@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
