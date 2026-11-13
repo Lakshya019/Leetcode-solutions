@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
