@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -301,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Lakshya019/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
