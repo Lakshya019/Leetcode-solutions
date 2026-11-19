@@ -14,7 +14,7 @@ public:
                     return false;
                 }
             }else{
-                if(ten > 0 & five > 0){
+                if(ten > 0 && five > 0){
                     ten--;
                     five--;
                 }else if(five >= 3){
