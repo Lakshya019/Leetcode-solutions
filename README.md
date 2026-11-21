@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0382-linked-list-random-node](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0260-single-number-iii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lakshya019/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Doubly-Linked List
 |  |
@@ -329,4 +332,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
