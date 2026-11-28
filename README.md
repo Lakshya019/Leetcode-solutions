@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0079-word-search) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshya019/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Number Theory
 |  |
